@@ -1,0 +1,5 @@
+yt-tutorials:
+https://www.youtube.com/watch?v=kqtD5dpn9C8"	1:00 pretty fast overview with many basics
+https://www.youtube.com/watch?v=rfscVS0vtbw   4:20 most general basics with good examples (recommended)
+https://www.youtube.com/watch?v=QUT1VHiLmmI   0:58 numpy, fundamental module, used all the time
+https://www.youtube.com/watch?v=qErBw-R2Ybk   0:27 matplotlib, vizualizing data

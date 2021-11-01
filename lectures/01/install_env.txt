@@ -1,0 +1,18 @@
+create folder eg. Documents/chem40
+
+downlaod zip
+https://github.com/JulianKimmig/chemiestudium40_WS21
+
+copy to chem40
+extract
+
+open conda promt
+
+cd into folder
+
+cd into chemiestudium40_WS21-main
+
+conda env create -n chem40 -f env.yaml
+conda activate chem40
+cd ..
+jupyter lab

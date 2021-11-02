@@ -1,6 +1,6 @@
 create folder eg. Documents/chem40
 
-downlaod zip
+download zip
 https://github.com/JulianKimmig/chemiestudium40_WS21
 
 copy to chem40
